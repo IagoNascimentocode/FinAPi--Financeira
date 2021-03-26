@@ -11,7 +11,7 @@
 - [x] Deve ser possivel buscar o extrato bancário do cliente por data.
 - [x] Deve ser possivel atualizar dados da conta do cliente.
 - [x] Deve ser possivel deletar uma conta.
-- [] Deve ser possivel retornar o balance.
+- [x] Deve ser possivel retornar o balance.
 ---
 
 ## Regras de Negócio 
